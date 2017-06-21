@@ -1,0 +1,15 @@
+Install Matlab,ROS, OPEN CV
+MATLAB 2017a - Download file from MATLAB WEBSITE and extract file in DOWNLOADS folder
+  open console and change directory to DOWNLOADS folder using cd ~/Downloads
+  once you are in the DOWNLOADS folder directory use -ls to list the files in that directory
+  if the matlab folder is listed then change directory to matlab foler using cd ~/Downloads/(MATLAB FOLDER HERE)
+  Once the directory has been changed used the command ./install and it will exectute command to install MATLAB and launch installer
+  
+  
+  FOR Installing ROS please revert to the ROS TUTORIALS 
+  on the ROS website here http://wiki.ros.org/ROS/Tutorials
+  
+  Installing OPEN CV
+  
+  
+  
