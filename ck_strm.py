@@ -6,15 +6,10 @@ import serial, time, sys, threading, datetime, shutil
 
 ######Global Variables#####################################################
 # you must declare the variables as 'global' in the fxn before using#
-ser = 0
-lat = 0
-long = 0
-pos_x = 0
-pos_y = 0
-alt = 0
+
 i = 0 #x units for altitude measurment
 
-BAUDRATE = 57600
+BAUDRATE = 9600
 ######FUNCTIONS############################################################
 
 def check_serial():
